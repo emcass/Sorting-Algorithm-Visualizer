@@ -1,0 +1,10 @@
+.controls {
+    margin: 25px 0;
+    text-align: center;
+}
+
+.controls button {
+    padding: 10px;
+    margin: 0 100px;
+    font-size: 2rem;
+}
